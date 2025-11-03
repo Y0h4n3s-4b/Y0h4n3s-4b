@@ -8,7 +8,7 @@ Student: Majoring in “How to Google Error Codes” with a minor in “Procrast
 Vibe: Part geek, part chaos agent, 100% “I’ll figure it out eventually.”
 
 What’s Here?
-A glorious mess of projects, half-baked scripts, and maybe something useful if you squint hard enough. Expect some cybersecurity experiments, random tools, and a lot of “oops, forgot to push that update.”
+A glorious mess of projects, half-baked scripts, and maybe something useful if you squint hard enough. Expect some cybersecurity experiments, random tools, and a lot of “oops, forgot to make them public :).”
 Wanna Stalk Me?
 Good luck, fam! I’ve got social media scattered across the internet like a digital Easter egg hunt. Flex your OSINT skills and track me down—consider it a free training exercise. (Pro tip: I’m not that good at hiding… yet.)
 :)))))))))))))))))))))))))))))))))))))))))))))))))))))))))
